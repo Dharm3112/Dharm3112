@@ -1,8 +1,7 @@
 ## Hey, Dharm Patel This Side!
+- 🌱 Curious mind exploring all paths in tech — building, learning, and improving every day  
   <br>
-  🌱 Curious mind exploring all paths in tech — building, learning, and improving every day  
-  <br>
-  💡 I love creating projects, solving problems, and experimenting with new ideas  
+- 💡 I love creating projects, solving problems, and experimenting with new ideas  
 </p>
 
 ## 💫 About Me:
