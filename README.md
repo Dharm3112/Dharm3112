@@ -1,5 +1,4 @@
-## Hey, Dharm Patel This Side
- 🚀 BTech Computer Science & Engineering Student  
+## Hey, Dharm Patel This Side!
   <br>
   🌱 Curious mind exploring all paths in tech — building, learning, and improving every day  
   <br>
@@ -7,7 +6,7 @@
 </p>
 
 ## 💫 About Me:
-- 🎓 BTech CSE Student  
+- 🎓 BTech Computer Science & Engineering Student  
 - 💻 Interested in Web, Backend, AI, and Open-Source  
 - 🔭 Always working on something new  
 - 📚 Learning new skills every day  
