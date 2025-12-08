@@ -12,7 +12,7 @@
 - 🔭 Always working on something new  
 - 📚 Learning new skills every day  
 - 🎯 Goal : Become a strong problem solver & build real-world impactful projects
-- Currently Learning : Python And It's Libraries Like Pandas,Numpy,Matplotlib,Django
+- 😀 Currently Learning : Python And It's Libraries Like Pandas,Numpy,Matplotlib,Django
 - 🤝 Open for collaborations and exciting ideas
 - 📩 My Email : dharmpatel311287@gmail.com
 
