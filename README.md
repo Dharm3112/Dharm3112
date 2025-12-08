@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <h1 align="center">👋 Hey, I'm Dharm</h1>
@@ -100,6 +100,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+-->
 <h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
 <p align="center">If you like my work, consider giving a ⭐ to my repositories.</p>
