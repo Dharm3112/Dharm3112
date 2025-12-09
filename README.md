@@ -41,6 +41,28 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharm3112&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+# 📊 GitHub Stats (live-ish — uses cache-buster token)
+
+> The GitHub Action (provided separately) will replace `STAT_TIMESTAMP` with a UTC timestamp and prime the image endpoints so these stat images update right after a push.
+
+<p align="center">
+  <!-- Contribution heatmap (ghchart) -->
+  <img alt="Contributions Graph" src="https://ghchart.rshah.org/Dharm3112?v=STAT_TIMESTAMP" width="720"/>
+</p>
+
+<p align="center">
+  <!-- Main summary & Top languages (both include cache-buster) -->
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dharm3112&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=STAT_TIMESTAMP" />
+  &nbsp;
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharm3112&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=STAT_TIMESTAMP" />
+</p>
+
+<p align="center">
+  <!-- Streak stats -->
+  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=dark&hide_border=false&v=STAT_TIMESTAMP" />
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dharm3112&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
