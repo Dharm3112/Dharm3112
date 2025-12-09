@@ -41,12 +41,6 @@
   <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=dark&hide_border=false&v=STAT_TIMESTAMP" />
 </p>
 
-
-## 🏆 GitHub Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Dharm3112&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15&v=2" />
-</p>
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
