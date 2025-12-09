@@ -59,7 +59,7 @@
   <img src="https://skillicons.dev/icons?i=jquery" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="45" title="Socket.io" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apache.svg" width="45" title="Apache" />
 
