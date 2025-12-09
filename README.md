@@ -50,7 +50,7 @@
 
   <!-- Hosting / Deployment -->
   <img src="https://skillicons.dev/icons?i=netlify" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render"/>
 
   <!-- Tools / Environments -->
   <img src="https://skillicons.dev/icons?i=anaconda" />
@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Apache_HTTP_server_logo_%282019%29.svg" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="48" alt="Apache"/>
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -70,18 +70,18 @@
   <img src="https://skillicons.dev/icons?i=sqlite" />
 
   <!-- Design / Tools -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" width="45" title="Canva" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva"/>
   <img src="https://skillicons.dev/icons?i=figma" />
 
   <!-- Python Libraries -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Pandas_logo.svg" width="45" height="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" height="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
 
   <!-- Version Control / Networking -->
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg" width="45" title="Cisco" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" />
 </p>
 
 
