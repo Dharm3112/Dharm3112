@@ -40,49 +40,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharm3112&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-name: Refresh README Stats (cache-buster)
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '0 * * * *' # optional: run hourly, adjust as needed
-jobs:
-  refresh-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          ref: ${{ github.ref }}
-      - name: Set up Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      - name: Update cache-buster timestamp in README.md
-        run: |
-          README="README.md"
-          # If your README is in a different path, change README variable above.
-          # This will insert/update a comment like: <!-- stats-cache: 2025-12-09T18:00:00Z -->
-          TIMESTAMP="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
-          if grep -q "<!-- stats-cache:" "$README"; then
-            # replace existing token
-            sed -E -i "s/<!-- stats-cache: .* -->/<!-- stats-cache: ${TIMESTAMP} -->/" "$README"
-          else
-            # insert token near top (after first line)
-            awk -v ts="$TIMESTAMP" 'NR==1{print; print "<!-- stats-cache: " ts " -->"; next} {print}' "$README" > "$README.tmp" && mv "$README.tmp" "$README"
-          fi
-
-      - name: Commit and push if changed
-        run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git add README.md
-            git commit -m "chore: refresh README stats cache-buster ($TIMESTAMP)"
-            git push origin HEAD:${{ github.ref_name }}
-          else
-            echo "No changes to commit"
-          fi
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dharm3112&theme=dark&no-frame=false&no-bg=true&margin-w=4)
