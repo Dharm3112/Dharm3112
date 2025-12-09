@@ -37,13 +37,6 @@
 
 ## 📊 GitHub Stats:
 <p>
-  <!-- Main summary & Top languages (both include cache-buster) -->
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dharm3112&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=STAT_TIMESTAMP" />
-  &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharm3112&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=STAT_TIMESTAMP" />
-</p>
-
-<p>
   <!-- Streak stats -->
   <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=dark&hide_border=false&v=STAT_TIMESTAMP" />
 </p>
