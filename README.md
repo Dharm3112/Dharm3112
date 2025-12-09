@@ -43,7 +43,9 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dharm3112&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dharm3112&theme=darkhub&no-frame=false&no-bg=false&margin-w=8" />
+</p>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
