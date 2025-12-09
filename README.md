@@ -50,7 +50,7 @@
 
   <!-- Hosting / Deployment -->
   <img src="https://skillicons.dev/icons?i=netlify" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="45" title="Render" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="45" height="45" />
 
   <!-- Tools / Environments -->
   <img src="https://skillicons.dev/icons?i=anaconda" />
