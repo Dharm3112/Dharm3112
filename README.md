@@ -59,9 +59,9 @@
   <img src="https://skillicons.dev/icons?i=jquery" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=socketio" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="45" title="Socket.io" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=apache" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apache.svg" width="45" title="Apache" />
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -70,18 +70,18 @@
   <img src="https://skillicons.dev/icons?i=sqlite" />
 
   <!-- Design / Tools -->
-  <img src="https://skillicons.dev/icons?i=canva" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" width="45" title="Canva" />
   <img src="https://skillicons.dev/icons?i=figma" />
 
   <!-- Python Libraries -->
-  <img src="https://skillicons.dev/icons?i=pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="45" title="Pandas" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="45" title="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" title="Matplotlib" />
 
   <!-- Version Control / Networking -->
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=cisco" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg" width="45" title="Cisco" />
 </p>
 
 
