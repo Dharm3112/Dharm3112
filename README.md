@@ -40,6 +40,24 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharm3112&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Contributions Graph -->
+<p align="center">
+  <!-- Contribution heatmap -->
+  <img alt="Contributions Graph" src="https://ghchart.rshah.org/Dharm3112" width="700"/>
+</p>
+
+<p align="center">
+  <!-- GitHub summary & top languages (both are dynamic) -->
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dharm3112&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  &nbsp;
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharm3112&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <!-- Streak stats -->
+  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=dark&hide_border=false" />
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dharm3112&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
