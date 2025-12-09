@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apache.svg" width="45" title="Apache" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Apache_HTTP_server_logo_%282019%29.svg" width="45" height="45" />
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" />
