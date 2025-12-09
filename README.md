@@ -85,6 +85,35 @@
 </p>
 
 
+<p>
+
+<!-- Render -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Render_logo.svg/600px-Render_logo.svg.png" width="50" />
+
+<!-- Socket.io -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="50" />
+
+<!-- Apache -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" width="50" />
+
+<!-- Canva -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_Logo.png" width="50" />
+
+<!-- Pandas -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" />
+
+<!-- NumPy -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50" />
+
+<!-- Matplotlib -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" />
+
+<!-- Cisco (Packet Tracer closest match) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="60" />
+
+</p>
+
+
 ## 📊 GitHub Stats:
 <p>
   <!-- Streak stats -->
