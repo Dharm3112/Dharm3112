@@ -44,7 +44,7 @@
 
 ## 🏆 GitHub Trophies
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Dharm3112&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dharm3112&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ## ✍️ Random Dev Quote
