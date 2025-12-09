@@ -40,17 +40,17 @@
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=typescript" />
 
   <!-- Hosting / Deployment -->
   <img src="https://skillicons.dev/icons?i=netlify" />
-  <img src="https://skillicons.dev/icons?i=render" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="45" title="Render" />
 
   <!-- Tools / Environments -->
   <img src="https://skillicons.dev/icons?i=anaconda" />
