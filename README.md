@@ -74,9 +74,9 @@
   <img src="https://skillicons.dev/icons?i=figma" />
 
   <!-- Python Libraries -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="45" title="Pandas" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="45" title="NumPy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" title="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Pandas_logo.svg" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" />
 
   <!-- Version Control / Networking -->
   <img src="https://skillicons.dev/icons?i=github" />
