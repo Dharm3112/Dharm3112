@@ -16,19 +16,19 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/dharm-patel-58a529321/">
+<a href="https://www.linkedin.com/in/dharm-patel-58a529321/" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://stackoverflow.com/users/32016312/dharm-patel">
+<a href="https://stackoverflow.com/users/32016312/dharm-patel" title="StackOverflow">
   <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </a>
-<a href="https://x.com/dhaarrm">
+<a href="https://x.com/dhaarrm" title="X(Twitter)">
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
-<a href="https://leetcode.com/u/dharm3112/">
+<a href="https://leetcode.com/u/dharm3112/" title="LeetCode">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dharmpatel311287@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dharmpatel311287@gmail.com" title="Gmail">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
