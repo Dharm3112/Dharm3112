@@ -28,7 +28,7 @@
 <a href="https://leetcode.com/u/dharm3112/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
 </a>
-<a href="dharmpatel311287@gmail.com">
+<a href="mailto:dharmpatel311287@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
