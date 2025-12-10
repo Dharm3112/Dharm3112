@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 <a href="https://leetcode.com/u/dharm3112/" title="LeetCode">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" title="LeetCode"/>
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dharmpatel311287@gmail.com" title="Gmail">
   <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -56,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=jquery" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://cdn.simpleicons.org/apache/D22128" height="48" alt="Apache"/>
 
