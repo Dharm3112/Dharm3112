@@ -35,50 +35,50 @@
 ## 💻 Tech Stack:
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=php" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=c" title="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=php" title="PHP"/>
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript"/>
 
   <!-- Hosting / Deployment -->
-  <img src="https://skillicons.dev/icons?i=netlify" />
+  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify"/>
   <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render"/>
 
   <!-- Tools / Environments -->
-  <img src="https://skillicons.dev/icons?i=anaconda" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=django" />
-  <img src="https://skillicons.dev/icons?i=jquery" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="48" alt="Apache"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=django" title="Django"/>
+  <img src="https://skillicons.dev/icons?i=jquery" title="jQuery"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="50" height="50" title="Socket.io"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="TailWindCSS"/>
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="48" title="Apache"/>
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite"/>
 
   <!-- Design / Tools -->
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva"/>
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" title="Canva"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
 
   <!-- Python Libraries -->
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" title="Pandas"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" title="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" title="MatPlotLib"/>
 
   <!-- Version Control / Networking -->
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" title="Cisco Packet Tracer"/>
 </p>
 
 
