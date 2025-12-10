@@ -78,7 +78,7 @@
   <!-- Version Control / Networking -->
   <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" title="Cisco Packet Tracer"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="50" title="Cisco Packet Tracer"/>
 </p>
 
 
