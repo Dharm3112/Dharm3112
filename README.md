@@ -78,7 +78,7 @@
   <!-- Version Control / Networking -->
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="45" height="45" />
 </p>
 
 
