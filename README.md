@@ -82,7 +82,7 @@
 </p>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <p>
   <!-- Streak stats -->
   <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=dark&hide_border=false&v=STAT_TIMESTAMP" />
