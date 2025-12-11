@@ -4,7 +4,7 @@
 - 💡 I love creating projects, solving problems, and experimenting with new ideas  
 </p>
 
-# 💫 About Me:
+# 📬 About Me
 - 🎓 BTech Computer Science & Engineering Student  
 - 💻 Interested in Web, Backend, AI, and Open-Source  
 - 🔭 Always working on something new  
@@ -15,7 +15,7 @@
 - 📩 My Email : dharmpatel311287@gmail.com
 
 
-# 🌐 Socials:
+# 🌍 Socials
 <a href="https://www.linkedin.com/in/dharm-patel-58a529321/" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <p align="left">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=c" title="C"/>
