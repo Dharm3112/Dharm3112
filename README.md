@@ -4,7 +4,7 @@
 - 💡 I love creating projects, solving problems, and experimenting with new ideas  
 </p>
 
-# 📬 About Me
+## 📬 About Me
 - 🎓 BTech Computer Science & Engineering Student  
 - 💻 Interested in Web, Backend, AI, and Open-Source  
 - 🔭 Always working on something new  
