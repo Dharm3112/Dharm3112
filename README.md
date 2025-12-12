@@ -16,7 +16,7 @@
 
 
 # 🌍 Socials
-<a href="https://www.linkedin.com/in/dharm-patel-58a529321/" title="LinkedIn">
+<a href="https://www.linkedin.com/in/dharm3112" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://stackoverflow.com/users/32016312/dharm-patel" title="StackOverflow">
