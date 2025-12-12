@@ -8,7 +8,7 @@
 
 - 🔍 Exploring how technology can solve real-world problems
 
-- 😀 Currently Learning Python And It's Libraries Like Pandas, Numpy, Matplotlib, Django
+- 🛠️ Currently Learning Python And It's Libraries Like Pandas, Numpy, Matplotlib, Django
 
 - 📩 My Email : dharmpatel311287@gmail.com
 
