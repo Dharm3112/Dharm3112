@@ -1,17 +1,15 @@
-# Hey, Dharm This Side!
-- 🌱 Curious mind exploring all paths in tech — building, learning, and improving every day  
-  <br>
-- 💡 I love creating projects, solving problems, and experimenting with new ideas  
-</p>
+# Hey, I'm Dharm Patel
+
+- 🚀 Exploring the limitless world of technology
 
 ## 📬 About Me
-- 🎓 BTech Computer Science & Engineering Student  
-- 💻 Interested in Web, Backend, AI, and Open-Source  
-- 🔭 Always working on something new  
-- 📚 Learning new skills every day  
-- 🎯 Goal : Become a strong problem solver & build real-world impactful projects
-- 😀 Currently Learning : Python And It's Libraries Like Pandas,Numpy,Matplotlib,Django
-- 🤝 Open for collaborations and exciting ideas
+
+- 💻 Interested in Web, Backend, AI, and Open-Source
+
+- 🔍 Exploring how technology can solve real-world problems
+
+- 😀 Currently Learning Python And It's Libraries Like Pandas, Numpy, Matplotlib, Django
+
 - 📩 My Email : dharmpatel311287@gmail.com
 
 
