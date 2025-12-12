@@ -4,11 +4,11 @@
 
 ## 📬 About Me
 
-- 💻 Interested in Web, Backend, AI, and Open-Source
+- 🔍 Exploring How Technology Can Solve Real-World Problems
 
-- 🔍 Exploring how technology can solve real-world problems
-
-- 🛠️ Currently Learning Python And It's Libraries Like Pandas, Numpy, Matplotlib, Django
+- 💡 Transforming Ideas Into Projects Through Continuous Learning And Innovation
+  
+- 🛠️ Currently Learning Python And It's Libraries — Pandas, Numpy, Matplotlib, Django
 
 - 📩 My Email : dharmpatel311287@gmail.com
 
