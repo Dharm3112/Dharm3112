@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 <p align="left">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=c" title="C"/>
