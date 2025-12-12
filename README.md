@@ -1,6 +1,6 @@
 # Hey, I'm Dharm
 
-🚀 Exploring the limitless world of technology
+- 🤖 Exploring The Limitless World Of Technology
 
 ## 📬 About Me
 
