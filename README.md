@@ -83,15 +83,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="50" title="Cisco Packet Tracer"/>
 </p>
 
-
 ## 📊 GitHub Stats
 <p>
-  <!-- Streak stats -->
-  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=dark&hide_border=false&v=STAT_TIMESTAMP" />
+  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=highcontrast&hide_border=true&v=STAT_TIMESTAMP" />
 </p>
 
-
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![](https://visitcount.itsvg.in/api?id=Dharm3112&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dharm3112&icon=0&color=ffffff)](https://visitcount.itsvg.in)
