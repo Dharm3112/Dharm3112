@@ -91,4 +91,4 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham)
 
-[![](https://visitcount.itsvg.in/api?id=Dharm3112&icon=0&color=999999)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dharm3112&icon=0&color=2aa198)](https://visitcount.itsvg.in)
