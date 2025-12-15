@@ -1,4 +1,4 @@
-# Hey, I'm Dharm
+# Hey, I'm Dharm Patel
 
 - 🤖 Exploring The Limitless World Of Technology
 
