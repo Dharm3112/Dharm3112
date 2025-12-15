@@ -1,4 +1,4 @@
-# Hey, I'm Dharm Patel
+<h1>Hey, I’m <span style="color:#4D96FF;">Dharm</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 - 🤖 Exploring The Limitless World Of Technology
 
