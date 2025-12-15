@@ -90,6 +90,6 @@
 
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=_border=true&v=STAT_TIMESTAMP)
 
 [![](https://visitcount.itsvg.in/api?id=Dharm3112&icon=0&color=A9A9A9)](https://visitcount.itsvg.in)
