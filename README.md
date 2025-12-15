@@ -85,10 +85,10 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=highcontrast&hide_border=true&v=STAT_TIMESTAMP" />
+  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=dracula&hide_border=true&v=STAT_TIMESTAMP" />
 </p>
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
-[![](https://visitcount.itsvg.in/api?id=Dharm3112&icon=0&color=ffffff)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dharm3112&icon=0&color=ff79c6)](https://visitcount.itsvg.in)
