@@ -89,6 +89,6 @@
 </p>
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=161b22&title_color=dedede&text_color=dedede&icon_color=dedede)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=RGB(12,16,20)&title_color=dedede&text_color=dedede&icon_color=dedede)
 
 [![](https://visitcount.itsvg.in/api?id=Dharm3112&icon=0&color=dedede&bg=161b22)](https://visitcount.itsvg.in)
