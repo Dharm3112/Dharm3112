@@ -88,7 +88,7 @@
   <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=gotham&hide_border=true&v=STAT_TIMESTAMP" />
 </p>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0c1014&title_color=2aa198&text_color=ffffff&icon_color=2aa198)
-
-[![](https://visitcount.itsvg.in/api?id=Dharm3112&icon=0&color=2aa198&bg=0c1014)](https://visitcount.itsvg.in)
+<h2 align="left">✍️ Dev Quote</h2>
+<div align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
