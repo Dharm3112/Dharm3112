@@ -67,11 +67,8 @@
 </p>
 
 <br/>
-
 ## 📊 GitHub Stats
-<p align="left">
-  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=ocean&hide_border=true&background=0D1117" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=dark&hide_border=false)<br/>
 
 <br/>
 
