@@ -6,7 +6,7 @@
 
 - 🛠️ **Currently Working On :** [IntelliCircle](https://github.com/Dharm3112/IntelliCircle.git) & Portfolio Website.
 - ⚡ **Recent Project :** 
-- 📚 **Currently Learning:** <img src="https://img.shields.io/badge/Django-intermediate-092E20?style=flat-square&logo=django" valign="middle" />
+- 📚 **Currently Learning:** <img src="https://img.shields.io/badge/Django-intermediate-092E20?style=flat-square&logo=django" valign="middle" /><img src="https://img.shields.io/badge/Numpy-intermediate-092E20?style=flat-square&logo=django" valign="middle" />
 - 📩 My Email : dharmpatel311287@gmail.com
 
 
