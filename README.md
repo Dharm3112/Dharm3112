@@ -5,7 +5,7 @@
 ## 📬 About Me
 
 - 🛠️ **Currently Working On :** [IntelliCircle](https://github.com/Dharm3112/IntelliCircle.git) & Portfolio Website.
-- ⚡ **Recent Projects :** [PostureGuard](https://github.com/Dharm3112/PostureGuard.git), [TicketHive](https://github.com/Dharm3112/TicketHive.git), [RetailPulse](https://github.com/Dharm3112/RetailPulse.git)
+- ⚡ **Recent Projects :** [PostureGuard](https://github.com/Dharm3112/PostureGuard.git), [TicketHive](https://github.com/Dharm3112/TicketHive.git), 
 - 📚 **Currently Learning :** <img src="https://img.shields.io/badge/Django-Moderate-blue?logo=django" valign="middle" />
 - 📩 My Email : dharmpatel311287@gmail.com
 
