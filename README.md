@@ -4,7 +4,7 @@
 
 ## 📬 About Me
 
-- 🔍 Exploring How Technology Can Solve Real-World Problems
+- 🛠️ Currently Working On: [IntelliCircle](https://github.com/Dharm3112/IntelliCircle.git) & Portfolio Website.
 
 - 💡 Transforming Ideas Into Projects Through Continuous Learning And Innovation
 
