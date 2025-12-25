@@ -5,7 +5,7 @@
 ## 📬 About Me
 
 - 🛠️ **Currently Working On :** [IntelliCircle](https://github.com/Dharm3112/IntelliCircle.git) & Portfolio Website.
-- ⚡ **Recent Project :** Built 
+- ⚡ **Recent Project :** 
 - 🛠️ Currently Learning Python And It's Libraries — Pandas, Numpy, Matplotlib, Django
 - 📩 My Email : dharmpatel311287@gmail.com
 
