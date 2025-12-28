@@ -6,7 +6,7 @@
 
 - 🛠️ **Currently Working On :** [IntelliCircle](https://github.com/Dharm3112/IntelliCircle.git) & Portfolio Website.
 - ⚡ **Recent Projects :** [PostureGuard](https://github.com/Dharm3112/PostureGuard.git) For Correct Posture While Developing
-- 📚 **Currently Learning :** <img src="https://img.shields.io/badge/Data Structures & Algorithms-Python-darkblue?logo=ds" valign="middle" />
+- 📚 **Currently Learning :** <img src="https://img.shields.io/badge/DSA-Python-darkblue?logo=ds" valign="middle" />
 - 📩 My Email : dharmpatel311287@gmail.com
 
 
