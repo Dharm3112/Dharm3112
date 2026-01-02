@@ -81,13 +81,3 @@
 </p>
 
 <br/>
-
-## 📊 GitHub Stats
-<p>
-  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=gotham&hide_border=true&v=STAT_TIMESTAMP" />
-</p>
-
-<h2 align="left">✍️ Dev Quote</h2>
-<div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
