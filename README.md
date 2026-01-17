@@ -66,7 +66,6 @@
   <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite"/>
 
   <!-- Design / Tools -->
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" title="Canva"/>
   <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
 
   <!-- Python Libraries -->
