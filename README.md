@@ -69,7 +69,7 @@
   <!-- Python Libraries -->
   <img src="https://cdn.simpleicons.org/pandas/150458" height="48" title="Pandas"/>
   <img src="https://cdn.simpleicons.org/numpy/013243" height="48" title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" title="MatPlotLib"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" title="MatPlotLib"/>
 
   <!-- Version Control / Networking -->
   <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
