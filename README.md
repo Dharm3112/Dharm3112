@@ -69,12 +69,10 @@
   <!-- Python Libraries -->
   <img src="https://cdn.simpleicons.org/pandas/150458" height="48" title="Pandas"/>
   <img src="https://cdn.simpleicons.org/numpy/013243" height="48" title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" title="MatPlotLib"/>
 
   <!-- Version Control / Networking -->
   <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="50" title="Cisco Packet Tracer"/>
 </p>
 
 <br/>
