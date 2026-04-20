@@ -54,9 +54,8 @@
   <img src="https://skillicons.dev/icons?i=django" title="Django"/>
   <img src="https://skillicons.dev/icons?i=jquery" title="jQuery"/>
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="50" height="50" title="Socket.io"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
   <img src="https://skillicons.dev/icons?i=tailwind" title="TailWindCSS"/>
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="48" title="Apache"/>
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
