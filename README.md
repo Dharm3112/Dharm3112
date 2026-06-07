@@ -34,7 +34,6 @@
 ## 💻 Tech Stack
 <p align="left">
   <!-- Languages -->
-  
   <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
