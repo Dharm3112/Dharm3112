@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite"/>
 
-  <!-- Design / Tools -->
+  <!-- Design Tools -->
   <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
 
   <!-- Python Libraries -->
