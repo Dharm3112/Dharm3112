@@ -10,7 +10,6 @@
 - 📩 My Email : dharmpatel311287@gmail.com
 
 
-
 ## 🌍 Socials
 <a href="https://www.linkedin.com/in/dharm3112" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" />
