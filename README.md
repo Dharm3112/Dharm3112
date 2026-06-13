@@ -4,7 +4,6 @@
 
 ## 📬 About Me
 
-
 - 🛠️ **Currently Working On :** [IntelliCircle](https://github.com/Dharm3112/IntelliCircle.git) & Portfolio Website.
 - ⚡ **Recent Projects :** [PostureGuard](https://github.com/Dharm3112/PostureGuard.git) For Correct Posture While Developing
 - 📚 **Currently Learning :** <img src="https://img.shields.io/badge/DSA-Python-0D1741?" valign="middle" />
